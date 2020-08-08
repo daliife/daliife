@@ -1,6 +1,6 @@
 ### Hello there, I'm David 👋. Welcome to my repository profile - [daliife](https://github.com/daliife)
 
-## I'm a Multimedia Engineer, Sound Technician and Musician
+## I'm a Multimedia Engineer, Sound Technician and Musician.
 
 - 💻 Web (mostly front) and videogame developer.
 - 🎮 Interested in videogames and immersive experiences.
@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Unity" height="26" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" />][unity]
 
-[<img align="left" alt="Unreal Engine" width="35px" src="https://logosandtypes.com/wp-content/uploads/unreal.svg" />][unreal]
+[<img align="left" alt="Unreal Engine" height="26px" src="https://www.pngkey.com/png/full/275-2752551_horizontal-logo-unreal-engine-unreal-engine-logo-vector.png" />][unreal]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 
